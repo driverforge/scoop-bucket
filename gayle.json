@@ -1,0 +1,22 @@
+{
+    "version": "6.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.0.0/gayle_6.0.0_windows_amd64.zip",
+            "bin": [
+                "gayle.exe"
+            ],
+            "hash": "a7b43242276948125a72da15dab2400836231033845133e9b09c189e688a3fb6"
+        },
+        "arm64": {
+            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.0.0/gayle_6.0.0_windows_arm64.zip",
+            "bin": [
+                "gayle.exe"
+            ],
+            "hash": "783c4208114e468283c92574255a8e6ca1bd08624bb5b262d482414ac12bbeb6"
+        }
+    },
+    "homepage": "https://github.com/driverforge/gayle",
+    "license": "MIT",
+    "description": "Deploy configuration and secrets to AWS SSM Parameter Store or Azure Key Vault"
+}
