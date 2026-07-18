@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.2.1/driverforge_0.2.1_windows_amd64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.2.2/driverforge_0.2.2_windows_amd64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "724fef76a08aa53bf9c834754b107f88631c91d025cc610d1b50f124f506d4e8"
+            "hash": "05eee010d5df800f827edcd93ee1ed50c4dc84a4b1139f214fb17d304dfd539e"
         },
         "arm64": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.2.1/driverforge_0.2.1_windows_arm64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.2.2/driverforge_0.2.2_windows_arm64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "f688bfdfec8989c163de48ea7d0cbeea06083fb6f9875b9841c225ba159ebecc"
+            "hash": "22ca6464e81539e354f606e05a24aa415987f90b6925ec7eb18a0a402103891b"
         }
     },
     "homepage": "https://driverforge.dev",
