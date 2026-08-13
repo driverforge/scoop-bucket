@@ -28,6 +28,7 @@ This repository is intentionally minimal, so it's easy to review:
 ## Upgrading
 
 ```
+scoop update
 scoop update driverforge
 scoop update gayle
 ```
