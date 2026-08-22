@@ -1,22 +1,22 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.6.0/driverforge_0.6.0_windows_amd64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.6.1/driverforge_0.6.1_windows_amd64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "69906eb33ce859f050ad2334f461b67a599f56d9d9cdf4f46c23dd7db8e4d667"
+            "hash": "122f7ba9f49e3c56e9b52a0ee660fa78f959bbf1cc753845db34e7ea832c01b2"
         },
         "arm64": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.6.0/driverforge_0.6.0_windows_arm64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.6.1/driverforge_0.6.1_windows_arm64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "c5dc2ccaddcdd14a52727a87d6956b80624f415fb01fbfd9147c6bda04113aed"
+            "hash": "1376644fb10b940557eababdeebb0c82991464749aec713c402267ec7ea85afb"
         }
     },
-    "homepage": "https://driverforge.dev",
+    "homepage": "https://go.driverforge.com/app",
     "license": "MIT",
     "description": "Driverforge CLI — build and manage Control4 drivers"
 }
