@@ -1,19 +1,19 @@
 {
-    "version": "0.8.3",
+    "version": "0.8.4",
     "architecture": {
         "64bit": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.8.3/driverforge_0.8.3_windows_amd64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.8.4/driverforge_0.8.4_windows_amd64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "474198de342cc0b262b7b07a1c6fe7c64961729e1179f8469c345f3150ff06db"
+            "hash": "657fbf8d290892a06c1e35b2e9ddf9765da9046458ec505abca1b48256310d38"
         },
         "arm64": {
-            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.8.3/driverforge_0.8.3_windows_arm64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/driverforge-cli/v0.8.4/driverforge_0.8.4_windows_arm64.zip",
             "bin": [
                 "driverforge.exe"
             ],
-            "hash": "bcddc441d5beb175154795deaf53e94ef3723f3030ac954bb932405b59db6ece"
+            "hash": "bc91e8b4322c75b9d4d6dc161513d21eb7759bc1f51de9eaf7e89d2d48744c7e"
         }
     },
     "homepage": "https://go.driverforge.com/app",
