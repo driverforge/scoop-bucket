@@ -1,19 +1,19 @@
 {
-    "version": "6.1.1",
+    "version": "6.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.1.1/gayle_6.1.1_windows_amd64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.2.0/gayle_6.2.0_windows_amd64.zip",
             "bin": [
                 "gayle.exe"
             ],
-            "hash": "99119bb4eb23929408e9fc4caaea9b62e9b5c33436546a7534b16642d28894fa"
+            "hash": "2cc091579cd433ba11203c861f009621923449ca648123200711f614f07857f1"
         },
         "arm64": {
-            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.1.1/gayle_6.1.1_windows_arm64.zip",
+            "url": "https://releases.driverforge.com/driverforge-releases/gayle/v6.2.0/gayle_6.2.0_windows_arm64.zip",
             "bin": [
                 "gayle.exe"
             ],
-            "hash": "7181f4575e4531ed2b2efd7afe0e5cda99f8e2774b98f586af37118b7378843a"
+            "hash": "9185b39d152e9339fc2c4e46feb93a7a8a21f272b840f2d333ff88843a1af19b"
         }
     },
     "homepage": "https://github.com/driverforge/gayle",
